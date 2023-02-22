@@ -16,6 +16,8 @@ namespace Userinterface.Tests
 
             StepsAsserts.AssertIsEqualsTextTimerWithActualTimer(StepsTests.GetTimerText(), timerExpected);
             int aaa = 100;
+            int bbb = 100;
+            int ccc = aaa + bbb;
             //uygyugbuhbuigyuguygyuygvygyvtyftfyugyughuihsdfwfwfwedwdfcsdcwcsdcw
         }
     }
