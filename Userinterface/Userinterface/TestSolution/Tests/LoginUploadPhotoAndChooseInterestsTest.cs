@@ -9,6 +9,7 @@ namespace Userinterface.Tests
 {
     public class LoginUploadPhotoAndChooseInterestsTest : BaseTest
     {
+        //hvjgvtygvfytyfvthgvftggvhv
         /*
         [Test, TestCaseSource(typeof(DataUserModel))]
         public void LoginUploadPhotoAndChooseInterestsTestCase(UserModel userModel)
