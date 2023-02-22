@@ -15,7 +15,7 @@ namespace Userinterface.Tests
             StepsAsserts.AssertIsPresentFirstCardPage();
 
             StepsAsserts.AssertIsEqualsTextTimerWithActualTimer(StepsTests.GetTimerText(), timerExpected);
-            //uygyugbuhbuigyuguygyuygvygyvty
+            //uygyugbuhbuigyuguygyuygvygyvtyftfyugyughuih
         }
     }
 }
