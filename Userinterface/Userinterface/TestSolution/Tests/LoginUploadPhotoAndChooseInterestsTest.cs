@@ -9,7 +9,6 @@ namespace Userinterface.Tests
 {
     public class LoginUploadPhotoAndChooseInterestsTest : BaseTest
     {
-        /*
         [Test, TestCaseSource(typeof(DataUserModel))]
         public void LoginUploadPhotoAndChooseInterestsTestCase(UserModel userModel)
         {
@@ -45,6 +44,5 @@ namespace Userinterface.Tests
                 yield return new object[] { userModel };
             }
         }
-        *///////////////////////wfffewfwef
     } 
 }
